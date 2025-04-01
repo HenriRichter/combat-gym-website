@@ -1,8 +1,5 @@
-import React from "react";
 import CombatGymDelmenhorst from "./CombatGymDelmenhorst";
 
-function App() {
+export default function App() {
   return <CombatGymDelmenhorst />;
 }
-
-export default App;
